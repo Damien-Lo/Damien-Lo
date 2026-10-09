@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Damien
 
-<!--
-**Damien-Lo/Damien-Lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a research assistant in Professor Li Xiong's [AIMS Lab](https://www.cs.emory.edu/site/aims/) at Emory University. I study how large models memorize their training data, using membership inference attacks to probe what vision-language and medical models remember, and what that reveals about how they work.
 
-Here are some ideas to get you started:
+I graduated from Emory in 2026 with a B.S. in Physics and Computer Science & Economics, and I'm applying to PhD programs for Fall 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research:** memorization and privacy in large models · explainability · trustworthy ML
+
+**Selected work**
+- [LOGAN-VLM-MIA](https://github.com/Damien-Lo/LOGAN-VLM-MIA): code for my honors thesis, *Probing Artificial Memory*, a low-noise perturbation attack on vision-language models
+- [HEART](https://github.com/Damien-Lo/CS554_Project_Medical_Database): full-stack app for hospital readmission risk and insurance coverage analysis
+- [BentoBuilder](https://github.com/Damien-Lo/BentoBuilder): meal-planning app (React Native and web)
+
+**Tools:** Python, PyTorch, NumPy, Pandas, scikit-learn, TypeScript, SQL, LaTeX, Linux / GPU clusters
+
+[Website](https://damien-lo.github.io) · [LinkedIn](https://www.linkedin.com/in/damienlo) · damien.lo@emory.edu
